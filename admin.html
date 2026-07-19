@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin — Gold Fundamentals News</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+<nav class="navbar navbar-gf navbar-expand-md">
+  <div class="container">
+    <a class="navbar-brand brand-mark" href="index.html">GOLD<span class="accent">FUNDAMENTALS</span> / NEWS</a>
+    <div class="ms-auto d-flex align-items-center gap-3">
+      <a class="nav-link mb-0" href="index.html">View site</a>
+      <button class="btn btn-outline-gf d-none" id="logoutBtn">Log out</button>
+    </div>
+  </div>
+</nav>
+
+<div class="container py-5">
+
+  <!-- Key gate -->
+  <div id="gate" class="gate-panel">
+    <span class="hero-eyebrow">Restricted</span>
+    <h2 class="hero-title" style="font-size:1.5rem; margin-top:0.75rem;">Enter admin key</h2>
+    <p class="text-muted" style="font-size:0.9rem;">This unlocks publishing tools on this device only.</p>
+    <input type="password" class="search-input w-100 mb-3" id="adminKeyInput" placeholder="admin key">
+    <button class="btn-gold w-100" id="unlockBtn">Unlock</button>
+    <p class="text-muted mt-3" style="font-size:0.78rem;" id="gateError"></p>
+  </div>
+
+  <!-- Admin content -->
+  <div id="adminContent" class="d-none">
+    <div class="section-heading">Publish new article</div>
+    <div class="admin-panel mb-5">
+      <form id="articleForm">
+        <input type="hidden" id="articleId">
+        <div class="row g-3">
+          <div class="col-md-8">
+            <label class="form-label d-block">Title</label>
+            <input type="text" class="form-control" id="title" required maxlength="140">
+          </div>
+          <div class="col-md-4">
+            <label class="form-label d-block">Category</label>
+            <select class="form-select" id="category" required>
+              <option value="Markets">Markets</option>
+              <option value="Central Banks">Central Banks</option>
+              <option value="Analysis">Analysis</option>
+              <option value="Mining">Mining</option>
+              <option value="Policy">Policy</option>
+              <option value="Education">Education</option>
+            </select>
+          </div>
+          <div class="col-12">
+            <label class="form-label d-block">Summary (shows on cards + hero)</label>
+            <textarea class="form-control" id="summary" rows="2" required maxlength="240"></textarea>
+          </div>
+          <div class="col-12">
+            <label class="form-label d-block">Full article content</label>
+            <textarea class="form-control" id="content" rows="10" required></textarea>
+            <div class="form-text text-muted" style="font-size:0.78rem;">Separate paragraphs with a blank line.</div>
+          </div>
+          <div class="col-md-8">
+            <label class="form-label d-block">Image URL (optional)</label>
+            <input type="url" class="form-control" id="imageUrl" placeholder="https://…">
+          </div>
+          <div class="col-md-4">
+            <label class="form-label d-block">Author</label>
+            <input type="text" class="form-control" id="author" value="Lona Smith">
+          </div>
+          <div class="col-12 d-flex align-items-center gap-2">
+            <input type="checkbox" id="featured" style="width:16px;height:16px;">
+            <label class="form-label mb-0" for="featured" style="text-transform:none; letter-spacing:normal;">Feature this article in the homepage hero</label>
+          </div>
+        </div>
+        <div class="d-flex gap-2 mt-4">
+          <button type="submit" class="btn-gold" id="submitBtn">Publish article</button>
+          <button type="button" class="btn-outline-gf d-none" id="cancelEditBtn">Cancel edit</button>
+        </div>
+        <p class="mt-3 mb-0" id="formStatus" style="font-family: var(--font-mono); font-size:0.8rem;"></p>
+      </form>
+    </div>
+
+    <div class="section-heading">Published articles</div>
+    <div id="adminList"></div>
+  </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="admin.js"></script>
+</body>
+</html>
