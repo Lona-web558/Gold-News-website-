@@ -1,6 +1,19 @@
 {
-  "nextId": 8,
+  "nextId": 9, 
+  
   "articles": [
+
+    {
+  "id": 8,
+  "title": "Gold Market Update | 28 August 2026",
+  "category": "Markets",
+  "summary": "Gold consolidates near $4,590-$4,605 as traders eye Fed Chair Kevin Warsh's Jackson Hole speech, with firm core PCE inflation offset by dollar pressure and strong central bank and Chinese demand.",
+  "content": "Gold is consolidating around the $4,590\u2013$4,605 per ounce area, remaining close to three-month highs after a strong multi-week rally. The metal continues to find support from concerns over currency debasement, elevated U.S. government debt and expectations for a more accommodative monetary policy environment.\n\nInvestor sentiment was also supported by the U.S. Treasury\u2019s decision to expand its long-dated bond buyback programme, aimed at helping stabilise yields. The move put some pressure on the U.S. dollar and contributed to renewed institutional interest in gold-backed ETFs.\n\nOn the macroeconomic front, the latest U.S. data showed that July core PCE inflation remained relatively firm, keeping some upward pressure on expectations for interest rates. Current market pricing points to roughly a 38% probability of a Federal Reserve rate cut in September, while the probability rises to more than 70% by December.\n\nPhysical and institutional demand remains another important source of support. Central banks continue to diversify their reserves into gold, while China\u2019s net gold imports through Hong Kong increased by 11% month-on-month, highlighting continued underlying demand from one of the world\u2019s largest gold markets.\n\nFrom a technical perspective, spot gold is currently trading between $4,590 and $4,605 per ounce. The broader near-term range is defined by support around $4,585 and resistance near $4,675. A sustained break above $4,675 could open the way for gold to move into fresh high territory, while a failure to hold $4,585 could trigger a deeper short-term consolidation.\n\nIn domestic markets, MCX gold is trading around \u20b9163,000 per 10 grams, remaining firm as the broader bullish structure stays intact.\n\nLooking ahead, traders will be closely watching Federal Reserve Chair Kevin Warsh\u2019s speech at the Jackson Hole symposium for further clues on the Fed\u2019s policy outlook and the potential path for interest rates into the fourth quarter. Any indication of a shift towards lower rates could provide another boost to gold, while a more hawkish tone could encourage some profit-taking after the metal\u2019s recent rally.",
+  "author": "Lona Smith",
+  "featured": true,
+  "createdAt": "2026-08-28T08:00:00.000Z",
+  "updatedAt": "2026-08-28T08:00:00.000Z"
+    }, 
     {
       "id": 7,
       "title": "Gold Market Update | 24 July 2026 \u2013 China Reshapes the Market",
@@ -8,7 +21,7 @@
       "summary": "Major Chinese banks end retail paper gold trading as spot gold slips to around $4,040-$4,050 on renewed Middle East escalation and hawkish Fed bets.",
       "content": "Today marks a significant structural shift in the global gold market as major Chinese banks, including ICBC, Postal Savings Bank of China, and Ping An Bank, officially end retail paper gold trading and leveraged gold contracts. Retail investors have been instructed to close their positions, liquidate their holdings, or take physical delivery of their gold. The move follows heightened market volatility and reflects regulators' efforts to better protect investors, reduce reliance on synthetic paper gold, and strengthen physical price discovery through the Shanghai Gold Exchange.\n\nSpot gold slipped to around $4,040-$4,050 per ounce on Friday, extending a decline of nearly 2% from the previous session and giving back much of the recovery seen earlier in the week, when prices had briefly pushed back into the $4,100s-$4,135 range as traders pared bets on a Federal Reserve rate hike. The renewed pressure came as surging oil prices, driven by an escalating Middle East conflict, strengthened the case for tighter US monetary policy. Reports of possible expanded military action against Iran helped lift Brent crude above $100 a barrel for the first time since May, while Yemen's Houthi rebels have also begun targeting Saudi Arabian oil tankers in the Bab el-Mandeb Strait, opening a second flashpoint for shipping disruption alongside the Strait of Hormuz. Higher oil prices have reignited inflation fears, reinforcing expectations that the Fed may need to stay tighter for longer, which continues to cap gold's upside.\n\nImmediate support is seen around $4,000 to $3,980, while resistance remains between $4,150 and $4,200. Investor sentiment continues to be shaped by expectations around Federal Reserve interest rate policy, ongoing geopolitical tensions, and consistent central bank demand for physical gold.\n\nOn the corporate front, Newmont, the world's largest gold producer, reported a solid second quarter, producing 1.3 million attributable gold ounces and generating $2.2 billion in free cash flow, leaving the company well positioned to achieve its full-year 2026 production guidance. Meanwhile, Caledonia Mining announced that surface exploration drilling at its Blanket Mine in Zimbabwe has identified a promising new orebody approximately 200 metres east of existing underground operations, supporting potential heap-leach expansion trials later this year. Mount Hope Mining also released encouraging metallurgical test results from its Mt Solitary prospect in New South Wales, achieving an impressive 98% gold recovery rate during initial phase-one testing.",
       "author": "Lona Smith",
-      "featured": true,
+      "featured": false,
       "createdAt": "2026-07-24T08:00:00.000Z",
       "updatedAt": "2026-07-24T08:00:00.000Z"
     },
