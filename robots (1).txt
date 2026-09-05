@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gold-fundamentals-news-website.onrender.com/sitemap.xml
