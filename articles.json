@@ -1,9 +1,22 @@
 
 
-
 {
-  "nextId": 16,
+  "nextId": 17,
   "articles": [
+    {
+      "id": 16,
+      "title": "Gold Extends Losing Streak as Strong Dollar and Higher Yields Weigh on Prices | 21 October 2026 ",
+      "category": "Markets",
+      "summary": "Gold prices slipped for a fourth consecutive session on October 21 as a stronger U.S. dollar, rising bond yields, and expectations of a hawkish Federal Reserve put pressure on precious metals. Silver also traded lower, while mining and gold-related companies reported mixed market performance and corporate developments.",
+      "content": "Gold prices remained under pressure on Wednesday, October 21, with spot gold trading between $4,115 and $4,119 per ounce. The precious metal extended its losing streak to four consecutive sessions as investors responded to renewed strength in the U.S. dollar and elevated bond yields. Persistent inflation concerns have also strengthened expectations that the Federal Reserve may maintain a hawkish approach to monetary policy.\n\nHigher bond yields can make gold less attractive because the metal does not pay interest. As returns on fixed-income investments become more appealing, some investors may shift away from gold, adding further pressure to prices. Silver followed a similar downward trend, trading near $57.97 per ounce as weakness spread across the precious metals market.\n\nIn the mining sector, Newmont Corporation (ASX: NEM) came under pressure, with its shares falling approximately 1.50% to AUD 165.69 during the session. The decline reflected broader market adjustments affecting major gold-mining stocks.\n\nThe Perth Mint Gold Structured Product (ASX: PMGOLD) also traded lower, slipping around 0.95% to AUD 58.31. The move came after the release of its latest monthly disclosures, which highlighted changes in gold holdings.\n\nElsewhere, Galantas Gold Corporation (TSX-V/AIM: GAL) reported the successful outcome of its annual general and special meeting. Shareholders approved the proposed slate of directors and an updated omnibus equity incentive compensation plan, marking a governance and compensation-related development for the company.\n\nTwin Hills Gold, meanwhile, reported encouraging metallurgical flotation results from its Queensland assets. The findings are expected to support ongoing development studies for its gold resources in the Drummond Basin.\n\nOverall, the gold market faced continued headwinds from the stronger U.S. dollar, elevated yields, and expectations of a firm Federal Reserve policy stance. While gold and silver prices moved lower, corporate developments across the mining sector offered a mixed picture, with some companies navigating market pressure and others reporting progress in their operational or development activities.",
+      "author": "Lona Smith",
+      "featured": true,
+      "createdAt": "2026-10-21T08:00:00.000Z",
+      "updatedAt": "2026-10-21T08:00:00.000Z"
+    }, 
+  
+
+    
     {
       "id": 15,
       "title": "Gold Market Update | 19 October 2026 – Bullion Rises as Oil Prices Ease",
