@@ -1,8 +1,23 @@
 
 
+
 {
-  "nextId": 17,
+  "nextId": 18,
   "articles": [
+    {
+      "id": 17,
+      "title": "Gold Hits an 11-Week Low as Strong Dollar and Inflation Fears Pressure Prices",
+      "category": "Markets",
+      "summary": "Gold prices fell sharply on Thursday, October 22, reaching their lowest level since mid-August as a stronger U.S. dollar, elevated oil prices, and expectations of tighter Federal Reserve policy weighed on the precious metals market. Silver, platinum, and palladium also recorded notable losses.",
+      "content": "Gold came under renewed selling pressure on Thursday, October 22, with spot prices falling to a range of $4,059 to $4,094 per ounce. The decline extended the metal’s recent downward trend, pushing prices to an 11-week low and their weakest level since mid-August. Gold has now lost around 5% over the past month after retreating from its late-summer highs. December U.S. gold futures also finished lower, settling near $4,111.40 per ounce.\n\nOne of the main factors weighing on gold is the continued strength in energy prices. Brent crude has been hovering around $110 a barrel, adding to concerns that inflation could remain elevated. Persistent inflation pressures have reinforced expectations that U.S. interest rates may stay high, or that monetary policy could tighten further before the end of the year. Higher yields tend to make gold less attractive because, unlike interest-bearing investments, the metal does not generate regular income.\n\nThe U.S. dollar has added to the pressure. A firm dollar makes gold and other dollar-priced commodities more expensive for buyers using other currencies, potentially reducing demand. With investors closely watching inflation data and Federal Reserve policy signals, the stronger dollar has become another obstacle to a sustained recovery in gold prices.\n\nTechnical factors have also contributed to the decline. Gold has slipped below key short-term moving averages in the $4,120 to $4,150 range, encouraging additional selling as traders respond to the break in support. Although continued central-bank purchases and longer-term demand for physically backed gold exchange-traded funds may provide some underlying support, these factors have not been enough to offset the current wave of selling.\n\nThe downturn extended across the wider precious metals market. Spot silver fell approximately 2.6% to $56.44 per ounce, while platinum dropped around 2.1% to $1,594.25 per ounce. Palladium also declined by about 2.6%, trading near $1,059.05 per ounce. The broad-based weakness suggests that pressure is affecting precious metals beyond gold alone.\n\nFor now, gold faces a challenging mix of a stronger U.S. dollar, elevated bond yields, inflation concerns, and weakening technical momentum. Longer-term support from central-bank buying and investment demand remains a factor to watch, but traders are likely to remain focused on incoming economic data and signals from the Federal Reserve as they assess the market’s next direction.",
+      "author": "Lona Smith",
+      "featured": true,
+      "createdAt": "2026-10-22T08:00:00.000Z",
+      "updatedAt": "2026-10-22T08:00:00.000Z"
+    }, 
+
+
+    
     {
       "id": 16,
       "title": "Gold Extends Losing Streak as Strong Dollar and Higher Yields Weigh on Prices | 21 October 2026 ",
