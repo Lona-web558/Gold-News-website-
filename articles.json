@@ -1,10 +1,23 @@
 
 
-
-
 {
-  "nextId": 19,
+  "nextId": 20,
   "articles": [
+    {
+      "id": 19,
+      "title": "Gold Enters 2026 Near $4,330 as Strong Demand Fuels Bullish Market Outlook | 1 January 2026 ",
+      "category": "Markets",
+      "summary": "Gold began 2026 trading around $4,320 to $4,330 per ounce, building on a historic rally in 2025. Strong central-bank buying, safe-haven demand, and investor interest in gold-backed ETFs helped support the positive outlook, while silver opened the year near $71.70 per ounce.",
+      "content": "Gold entered the new year on a strong footing, with spot prices opening around $4,320 to $4,330 per ounce on January 1, 2026. The market carried significant momentum from 2025, when gold recorded an exceptional annual gain of more than 64%. That performance highlighted the metal’s growing importance to investors seeking protection against economic uncertainty, currency fluctuations, and geopolitical risks.\n\nSeveral factors helped support gold’s positive outlook at the start of the year. Central banks continued to play an important role through their purchases of gold, while investors looked to the metal as a way to diversify portfolios and protect against uncertainty. Expectations around real interest rates also remained a key influence, as lower real yields can make non-interest-bearing assets such as gold more attractive.\n\nThe market was also positioned for further movement as 2026 began. During January, rising geopolitical tensions and strong investment demand helped fuel a powerful rally, with gold later moving above previous records and reaching reported levels in the $5,100 to $5,500-per-ounce range. These gains reflected the strength of investor interest as market participants responded to changing global conditions.\n\nInvestment flows were another important part of the picture. Demand for physical gold bars and coins, alongside inflows into gold-backed exchange-traded funds, helped reinforce interest in the precious metals market. When investment demand increases while physical supply is tight, prices can become more sensitive to additional buying. Institutional and retail investor activity therefore remained an important factor to watch as the year progressed.\n\nSilver also started 2026 at elevated levels, trading around $71.70 per ounce on January 1. The gold-to-silver ratio stood near 60.2, providing another measure of how the two precious metals were valued relative to one another. Broader commodity-market strength, currency volatility, and demand for portfolio diversification helped shape sentiment across the sector.\n\nOverall, gold began 2026 with strong momentum following its remarkable performance in the previous year. Central-bank purchases, safe-haven interest, and investment flows provided important sources of support. While prices remained sensitive to interest-rate expectations, the U.S. dollar, and developments in the global economy, gold entered the year as a closely watched asset for investors navigating an uncertain financial landscape.",
+      "author": "Lona Smith",
+      "featured": true,
+      "createdAt": "2026-01-01T08:00:00.000Z",
+      "updatedAt": "2026-01-01T08:00:00.000Z"
+    }, 
+
+
+
+    
     {
       "id": 18,
       "title": "Gold Slides Toward $4,000 as Market Turmoil and Inflation Fears Weigh on Prices | 23 October 2026 ",
