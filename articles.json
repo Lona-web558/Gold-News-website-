@@ -1,8 +1,22 @@
 
-
 {
-  "nextId": 20,
+  "nextId": 21,
   "articles": [
+    {
+      "id": 20,
+      "title": "Gold Faces Sharp Correction as Fed Nomination and Higher Margins Trigger Selloff | 1 February 2026 ",
+      "category": "Markets",
+      "summary": "Gold experienced a sharp correction around February 1, 2026, retreating from record highs above $5,100 to $5,500 per ounce to trade around $4,680 to $4,890. A stronger U.S. dollar, expectations of a hawkish Federal Reserve, higher futures margin requirements, and profit-taking contributed to extreme volatility across precious metals.",
+      "content": "Gold entered February under significant pressure after an extraordinary rally in the final week of January. Having surged to record levels above $5,100 to $5,500 per ounce, the metal pulled back sharply, with prices trading around $4,680 to $4,890 on Sunday, February 1. The reversal marked a dramatic shift in market sentiment as investors rushed to take profits following the rapid rise in prices.\n\nOne of the main triggers for the selloff was the announcement that Kevin Warsh had been nominated to lead the U.S. Federal Reserve. Markets interpreted the nomination as a potentially hawkish signal, helping support the U.S. dollar and prompting investors to reassess their positions in gold. Because gold does not pay interest, expectations of tighter monetary policy and stronger returns elsewhere can make the metal less attractive in the short term.\n\nTrading conditions were further complicated by higher margin requirements introduced by CME Group. According to the reported changes, gold futures margins rose from 6% to 8%, while silver margins increased from 11% to 15%. These requirements mean traders must commit more capital to maintain leveraged positions. For investors who were heavily exposed to the late-January rally, the additional funding pressure may have contributed to forced selling and accelerated the market decline.\n\nSpeculative trading flows also played a role. The rapid rise in gold prices had attracted momentum-driven investors, including participants from Asian markets. As some of these positions were unwound ahead of the Lunar New Year holiday in mid-February, trading liquidity became more fragile. In a market already experiencing sharp price swings, reduced liquidity can amplify moves in either direction and make declines more abrupt.\n\nSilver followed gold lower as investors reduced exposure across the precious metals sector. After reaching elevated levels during the late-January rally, silver was trading around $70 to $85 per ounce near February 1, according to the reported market range. Despite the price correction, physical demand for bars and coins remained an important part of the longer-term picture, with some industrial and retail buyers viewing lower prices as a potential opportunity to add to their holdings.\n\nDespite the sharp selloff, the longer-term investment case for gold had not necessarily disappeared. Central-bank reserve accumulation, efforts to diversify away from traditional reserve assets, and ongoing concerns about debt and economic uncertainty continued to provide structural support. Analysts at institutions such as Bank Julius Baer and J.P. Morgan have been among those watching how these underlying forces interact with short-term market volatility.\n\nFor now, the market is adjusting after an exceptionally fast rally. A stronger dollar, changing expectations for Federal Reserve policy, higher trading costs, and widespread profit-taking have created substantial near-term pressure. However, continued central-bank demand and interest in physical gold could help support prices over a longer horizon. Investors are likely to remain alert to further changes in liquidity, monetary policy expectations, and speculative positioning as the market seeks to establish a more stable footing.",
+      "author": "Lona Smith",
+      "featured": true,
+      "createdAt": "2026-02-01T08:00:00.000Z",
+      "updatedAt": "2026-02-01T08:00:00.000Z"
+    }, 
+
+
+
+    
     {
       "id": 19,
       "title": "Gold Enters 2026 Near $4,330 as Strong Demand Fuels Bullish Market Outlook | 1 January 2026 ",
