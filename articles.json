@@ -1,7 +1,22 @@
 
+
 {
-  "nextId": 21,
+  "nextId": 22,
   "articles": [
+    {
+      "id": 21,
+      "title": "Gold Opens Fourth Quarter Higher as Cooler Inflation Offsets Rising Treasury Yields | 1 October 2026 ",
+      "category": "Markets",
+      "summary": "Gold began the fourth quarter on October 1, 2026, with a modest rebound to around $4,155–$4,188 per ounce. Cooler-than-expected U.S. inflation provided some support, although rising Treasury yields and higher oil prices limited the metal’s gains. Silver outperformed gold, rising to approximately $61.72 per ounce.",
+      "content": "Gold started the fourth quarter with a modest recovery on Thursday, October 1, trading between $4,155 and $4,188 per ounce. The rebound of around 0.5% followed a slight decline at the end of September, offering some relief to investors after recent market pressure. However, gold’s gains remained limited as traders weighed encouraging inflation data against rising bond yields and renewed concerns about energy prices.\n\nU.S. inflation figures provided some support for the precious metal. The Personal Consumption Expenditures (PCE) inflation rate was reported at 3.4% year over year, below market expectations of 3.7%, while monthly core inflation came in at 0.2%. The softer-than-expected figures eased some concerns about immediate interest-rate increases and gave gold investors a reason for cautious optimism. Lower inflation pressure can create more room for monetary easing, which may benefit gold if it also leads to lower real yields.\n\nDespite this support, rising U.S. Treasury yields remained a major obstacle. The yield on the 10-year Treasury note climbed toward 5.33%, a level described in the market snapshot as a multi-decade high. Higher yields can make interest-bearing assets more attractive compared with gold, which does not generate income. This reduced the metal’s ability to build on its early gains and kept investors focused on the direction of interest rates.\n\nEnergy markets added another layer of uncertainty. West Texas Intermediate crude oil traded above $92 a barrel, while Brent crude approached $100. The increase followed reports of Chinese refinery export suspensions and revived concerns that higher energy costs could keep inflation elevated. If oil prices remain high, central banks may have less flexibility to ease monetary policy, potentially placing further pressure on gold.\n\nSilver performed more strongly than gold during the session, rising approximately 1.28% to around $61.72 per ounce. Its gains were linked in the market snapshot to a recovery in industrial demand, helping the metal outperform gold despite the challenging interest-rate environment.\n\nOverall, gold entered the final quarter of 2026 caught between two competing forces. Cooler U.S. inflation offered some support by easing immediate rate-hike concerns, while elevated Treasury yields and higher oil prices limited further gains. Investors are likely to remain focused on incoming inflation data, movements in bond yields, energy-market developments, and central-bank signals as they assess whether gold can sustain its recovery in the weeks ahead.",
+      "author": "Lona Smith",
+      "featured": true,
+      "createdAt": "2026-10-01T08:00:00.000Z",
+      "updatedAt": "2026-10-01T08:00:00.000Z"
+    }, 
+
+
+    
     {
       "id": 20,
       "title": "Gold Faces Sharp Correction as Fed Nomination and Higher Margins Trigger Selloff | 1 February 2026 ",
