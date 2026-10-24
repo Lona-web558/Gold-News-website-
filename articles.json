@@ -1,8 +1,22 @@
 
 
+
 {
-  "nextId": 22,
+  "nextId": 23,
   "articles": [
+    {
+      "id": 22,
+      "title": "Gold Tests $4,000 Support as Rising Oil Prices and Inflation Fears Weigh on Market | 24 October 2026 ",
+      "category": "Markets",
+      "summary": "Gold came under renewed pressure as spot prices slipped below the key $4,000-per-ounce level before recovering slightly. Rising oil prices, persistent Treasury yields, and expectations of continued hawkish central-bank policy weighed on precious metals, while silver, platinum, and palladium also recorded losses.",
+      "content": "Gold faced renewed selling pressure as prices briefly fell below the important $4,000-per-ounce mark before finding some support and stabilizing. Spot gold traded within a range of approximately $3,995 to $4,046 per ounce, while December U.S. gold futures settled near $4,046.40. The move put the spotlight on the $4,000 level, a psychological threshold that traders are watching closely for signs of whether the market can regain its footing or face further declines.\n\nRising energy prices remain a major concern for investors. Brent crude has been trading near $116 a barrel, adding to fears that inflation could remain elevated across the global economy. Higher oil prices can push up transportation and production costs, potentially making it harder for central banks to bring inflation under control. This has reinforced expectations that monetary policy may remain restrictive for longer.\n\nThe interest-rate environment has added to the pressure on gold. Persistent U.S. Treasury yields and a hawkish outlook from central banks have made interest-bearing investments more attractive relative to gold, which does not generate regular income. As a result, investors have remained cautious about increasing their exposure to the precious metal while the outlook for inflation and interest rates remains uncertain.\n\nWeakness has also spread across the broader precious metals market. Silver fell approximately 1.3% to around $53.81 per ounce, while platinum declined about 0.9% to $1,557.03. Palladium also moved lower, slipping around 0.4% to approximately $1,050.50 per ounce. The declines suggest that pressure is affecting the wider sector rather than gold alone.\n\nFrom a technical perspective, the $4,000 level remains a key area to watch. Holding above it could help gold establish a short-term base, while a sustained move below it may encourage further selling. If prices continue to weaken, the $3,942 to $3,950 range is another important support area, based on a previous low recorded during a 2026 pullback. On the upside, resistance sits around $4,100 to $4,120, a zone gold would need to reclaim to strengthen the case for a recovery.\n\nFor now, gold’s direction will likely depend on how investors respond to persistent inflation concerns, elevated bond yields, and central-bank policy signals. The recent bounce after the brief break below $4,000 offers some short-term relief, but the broader outlook remains uncertain. Traders will be watching closely to see whether buyers can defend current levels or whether continued macroeconomic pressure pushes prices lower.",
+      "author": "Lona Smith",
+      "featured": true,
+      "createdAt": "2026-10-24T08:00:00.000Z",
+      "updatedAt": "2026-10-24T08:00:00.000Z"
+    }, 
+
+    
     {
       "id": 21,
       "title": "Gold Opens Fourth Quarter Higher as Cooler Inflation Offsets Rising Treasury Yields | 1 October 2026 ",
